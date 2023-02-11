@@ -22,10 +22,8 @@ Web Developer
                   
 ### Coding Stats
 
-<img
-  src="https://github.com/TheRafal/TheRafal/blob/main/images/stat.svg"
-  alt="Wakatime coding stats"
-/>  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Socials
                   
