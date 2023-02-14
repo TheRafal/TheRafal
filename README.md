@@ -20,16 +20,10 @@ Web Developer
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
                   
-### Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### Socials
-                  
 <p align="left"> <a href="https://discord.com/users/524881001470492692" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/TheRafal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
+[![wakatime](https://wakatime.com/badge/user/9bd25f20-1353-4acc-b683-2e729a1dfe14.svg)](https://wakatime.com/@9bd25f20-1353-4acc-b683-2e729a1dfe14)
 
 <b>My GitHub Stats</b>
 
